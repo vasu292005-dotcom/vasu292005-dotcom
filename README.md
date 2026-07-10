@@ -17,3 +17,6 @@
 ![](https://streak-stats.demolab.com?user=vasu292005-dotcom&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasu292005-dotcom&layout=compact&theme=dark&hide_border=false)
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/vasu292005-dotcom/vasu292005-dotcom/blob/output/github-contribution-grid-snake-dark.svg)
