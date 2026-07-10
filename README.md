@@ -20,5 +20,5 @@
 ## 🐍 Contribution Snake
 
 ![Snake Animation](https://github.com/vasu292005-dotcom/vasu292005-dotcom/blob/output/github-contribution-grid-snake-dark.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=vasu292005-dotcom&theme=radical&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasu292005-dotcom&theme=github-dark)
